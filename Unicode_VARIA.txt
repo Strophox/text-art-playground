@@ -1,0 +1,103 @@
+⁃ hyphen bullet
+‐ hyphen
+- hyphen-minus (commonly used)
+᠆ mongolian todo soft hyphen
+˗ modified letter minus sign
+‑ non-breaking hyphen
+‒ figure dash
+– en dash
+﹣small hyphen-minus
+－ fullwidth hyphen-minus
+− minus sign
+⎯ horizontal line extension
+— em dash
+― horizontal bar
+⸺ two-em dash
+⸻ three-em dash
+▐​▌zero width space
+▐▌zero width no-break space
+▐󠀠▌tag space
+▐ ▌hair space
+▐ ▌punctuation space
+▐ ▌thin space
+▐ ▌figure space
+▐ ▌six-per-em space
+▐ ▌narrow no-break space
+▐ ▌space
+▐ ▌no-break space
+▐ ▌four-per-em space
+▐ ▌medium mathematical space
+▐ ▌three-per-em space
+▐ ▌en space
+▐ ▌en quad
+▐ ▌em quad
+▐ ▌em space
+▐　▌ideographic space
+𑁉 brahmi punctuation dot
+･halfwidth katakana middle dot
+ꞏ latin small letter sinological dot
+⸳ raised dot
+· middle dot
+‧ hyphenation point
+∙ bullet operator
+⋅ dot operator
+🞄 black slightly small circle
+• bullet
+⦁ z notation spot
+● black circle
+⬤ black large circle
+
+︎𒁃𒁈𒀖𒀩𒁂𒁍𒁱𒁷𒂞𒄦𒅋𒆟𒆬𒆲𒆸𒈝𒈰𒊏𒋦𒍜𒍼𒂶𒅒𒈔𒃺𒅑𒅬𒆙𒆮𒈙𒌃𒌩𒍔𒐇𒐌𒐔𒐝𒐫𒂭 ﷺ 𒍼𒀰𒀱 𒌄 𒐫𒈙෴
+﷽
+↊↋ɐǝ⨋℻н⧸⧹⚘⬡⌬⫷⫸─━▬▰▱¶𓈝 𓆈 𓎬 𓉡 𓋍 🀫 🀐  ⸽ 🖽 🃳❦❧️\⚜☻☺ 🝙⁒⇽⇾⊹⌗˄⌃⌄‾⁘⁖⁙ ⁚ ⁛⋈⌯♅︳︱の  ʍ ︵⁔ ‿ ﹏死 ༖ ♼ ♽ ⛆ 🝳 `🗕 🗗 🗙` ⚜ⰼⰌⰩ 🝛 ꜛꜜꭩᗄᔏ ᗜ_ᗜ⎶︿﹀⏖⏑¿ə☡🜁🜂🜃🜄❡
+⟨⟩「アニメ。」 ≴≵ ⋪⋫ ⌁ <> ⋘⋙ ≺≻ ⫷⫸⤼⤽⨧⩵⬳⬽⤞⤝ eⷾ
+⌤ ⸚ ⍨ ⍤ ☺☹ 🗲 🗱 ࿋ ⛮ ⚗ ⛼ ⌇ 量
+∽∼ ‸ ⎀
+( ͡° ͜ʖ ͡°)   ¯\_(ツ)_/¯   (˵ ͡° ͜ʖ ͡°˵)   (◕‿◕)   (ಠ_ಠ)   (ಥ﹏ಥ)   //>﹏<//   òωó   (ᵔᴥᵔ)    ͡• ͜o.)   ˙ ͜ʟ˙ '‿' ŧ⩌‿⩌◡⏑⏝◡⌣ⵅᗨᗜ<>𝅒< 🝦▽ᚗ🜅𝈳ᚖ›𝅒‹`(›𝅒‹)` ´ ~ ` (┛❍ᴥ❍﻿)┛彡┻━┻ (ᗜˬᗜ)⪧≥ ꘍ ≤⪦ ×͜×
+♠♥♦♣♤♡♢♧⛀⛂⚀⚁⚂⚃⚄⚅♔♕♖♗♘♙♚♛♜♝♞♟
+ ╶╵└╴─┘┴╷┌│├┐┬┤┼
+╶╺╵└┕╹┖┗╴─╼┘┴┶┚┸┺╸╾━┙┵┷┛┹┻╷┌┍│├┝╿┞┡┐┬┮┤┼┾┦╀╄┑┭┯┥┽┿┩╃╇╻┎┏╽┟┢┃┠┣┒┰┲┧╁╆┨╂╊┓┱┳┪╅╈┫╉╋
+⠀⠁⠂⠃⠄⠅⠆⠇⠈⠉⠊⠋⠌⠍⠎⠏⠐⠑⠒⠓⠔⠕⠖⠗⠘⠙⠚⠛⠜⠝⠞⠟⠠⠡⠢⠣⠤⠥⠦⠧⠨⠩⠪⠫⠬⠭⠮⠯⠰⠱⠲⠳⠴⠵⠶⠷⠸⠹⠺⠻⠼⠽⠾⠿⡀⡁⡂⡃⡄⡅⡆⡇⡈⡉⡊⡋⡌⡍⡎⡏⡐⡑⡒⡓⡔⡕⡖⡗⡘⡙⡚⡛⡜⡝⡞⡟⡠⡡⡢⡣⡤⡥⡦⡧⡨⡩⡪⡫⡬⡭⡮⡯⡰⡱⡲⡳⡴⡵⡶⡷⡸⡹⡺⡻⡼⡽⡾⡿⢀⢁⢂⢃⢄⢅⢆⢇⢈⢉⢊⢋⢌⢍⢎⢏⢐⢑⢒⢓⢔⢕⢖⢗⢘⢙⢚⢛⢜⢝⢞⢟⢠⢡⢢⢣⢤⢥⢦⢧⢨⢩⢪⢫⢬⢭⢮⢯⢰⢱⢲⢳⢴⢵⢶⢷⢸⢹⢺⢻⢼⢽⢾⢿⣀⣁⣂⣃⣄⣅⣆⣇⣈⣉⣊⣋⣌⣍⣎⣏⣐⣑⣒⣓⣔⣕⣖⣗⣘⣙⣚⣛⣜⣝⣞⣟⣠⣡⣢⣣⣤⣥⣦⣧⣨⣩⣪⣫⣬⣭⣮⣯⣰⣱⣲⣳⣴⣵⣶⣷⣸⣹⣺⣻⣼⣽⣾⣿
+⮾⨂⮿⊗⭙⸰∘⚬○￮⭘𐩒🞅🞇🞉⊚⦾⌾⭗◯⨀⊙⦿◉○◔◑◕●◍
+□⧈◰◱◲◳◧◨◩◪◫▣▤▥▦▧▨▩■
+⿰ ⿱ ⿲ ⿳ ⿴ ⿵ ⿶ ⿷ ⿸ ⿹ ⿺ ⿻
+☒⍰⯑�⌧⊠∅⬚ ⛆
+○□△◇●■▲◆
+🞗🞘⬩⬥⯁◆◇❖⯁♢⬥🞜⬦⬩🞛⟡⋄⬙⬖🞘⬗🞚⟐🞗⬘
+◈◇◆
+△◮▲◭◬🜁🜂
+◃◅◁ ▷▻▹
+⯅⯀⯂⯄🟂✦★🟀🟄🟉✶🟎🟒🟆🟌🟐✷✹🟃🟇✯🟍✵🟔
+★☆🟊⚝✰✪⋆✩✯✮✭⭑🟉⭒✫✬
+♳♴♵♶♷♸♹♺
+✧ ✦ ✥ ✤ ✣ ✢ ⋆ ★ ✩ ✰ ✪ ✫ ✬ ✭ ✮ ✯ ✶ ✱ ✲ ✻ ✼ \❄ ❅ ❆ ❉ ✷ ✸ \✳ \✴ ✵ \❇ ❈ ❊ ❋ ❂ ✹ ✺
+>⪢⫸❭❱
+🡢🡪🡲🡺➘➙➚➛\➡➜➝➞➟➠➨➥➦➢➣➤➧➲➩➪➯➱➮➭➫➬➳➴➵➶➷➸➹➺➻➼➽➾⟰⟱
+⟲⟳⟴⟵⟶↑↓⟷⟸⟹⟺⟻⟼⟽⟾⟿
+&🙰🙲🙵⅋
+🙸🙶🙷⟮⟯
+⋆｡ﾟ☁｡ gn ｡ ﾟ☾｡⋆
+𑲎
+
+⎧⋆⎫ ┏┳━┓ ┌┬─┐ ╔╦═╗
+⎭⋆⎩ ┣╋┅┫ ├┼┄┤ ╠╬═╣
+⎫⋆⎧ ┃┇ ┋ │┆ ┊ ║║ ║
+⎩⋆⎭ ┗┻┉┛ └┴┈┘ ╚╩═╝
+⎧⋆⎫ ⎛⋆⎞ ⎡⋆⎤ ⌠
+⎨⋆⎬ ⎜⋆⎟ ⎢⋆⎥ ⎮
+⎩⋆⎭ ⎝⋆⎠ ⎣⋆⎦ ⌡
+⎰⋆⎱ ╭╮ ⎲
+⎱⋆⎰ ╰╯ ⎳
+
+**`Propositions: `**¬∧∨←↑→↓\↔️∀∃∄⇒⇐⇔⟸⟹⟺⊨⫤️⊢⊣⊥⊤∎↯
+**`Set theory:   `**∅ℕℤℚℝℂ∖∩∪⊎∈∋∉∌↦
+**`Relations:    `**≠≈≃≅≡<>≤≥≦≧≨≩≺≻≼≽⊂⊃⊆⊇⊊⊋⊄⊅
+**`Binary Ops:   `**+±∓⋅×÷∗⋆⋄∘⊗⊕⊖⊙⊼⊽⨾
+**`Unary Ops:    `**−⁻¹𝓟℘ᵀᴴ√∛∜⌊⌋⌈⌉⟨⟩⟦⟧∂∇∆□○◇
+**`Miscell:      `**⋮⋰⋱∏∑⋀⋁⋂⋃⨉⨁⨂⨀∫∬∭∭⨌∎∞∄∴∵≝≔≟≜⋈⋉⋊⇝↝よ
+**`Fractions: `**½ ↉ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒ ⅟
+**`Greek:     `**ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ αβγδεζηθικλμνξοπρστυφχψω
+**`Subscript:   `**¶ ₐ ₑ ₕ ᵢ ⱼ ₖ ₗ ₘ ₙ ₒ ₚ ᵣ ₛ ₜ ᵤ ᵥ ₓ ¶ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ₊ ₋ ₌ ₍ ₎
+**`Superscript: `** ¶ ᴬ ᴮ ᴰ ᴱ ᴳ ᴴ ᴵ ᴶ ᴷ ᴸ ᴹ ᴺ ᴼ ᴾ ᴿ ᵀ ᵁ ⱽ ᵂ ¶ ᵃ ᵇ ᶜ ᵈ ᵉ ᶠ ᵍ ʰ ⁱ ʲ ᵏ ˡ ᵐ ⁿ ᵒ ᵖ ʳ ˢ ᵗ ᵘ ᵛ ʷ ˣ ʸ ᶻ ¶ ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⁺ ⁻ ⁼ ⁽ ⁾ ᑉ ᐩ ᐨ ᙿ ᙾ ᑦᖦ ꜝ ᐪ ⁿ⁄
+**`Quick access: `** · • – — „“” «» ‹› ‥ … |¦ ¡ ¿ ‽ ⁇ \‼ ⁈ \⁉ ✓\✔️ ✗✘ ⧸ †‡ ‾ ˊ ⌄⌃ ⅋ № ต 𝔊 ⓘ Erdős �
+`█▯▓▯▒▯░▯ ▯▘▯▝▯▀▯▖▯▌▯▞▯▛▯▗▯▚▯▐▯▜▯▄▯▙▯▟▯█`

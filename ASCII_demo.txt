@@ -1,0 +1,9 @@
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+
+ABCDEF GHIJKLM
+abcdef ghijklm
+NOPQRST UVWXYZ
+nopqrst uvwxyz
+:01234,.56789;
+?!=+*-/"%'~|&^
+_(@)[#]{$}<\>`
